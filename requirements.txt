@@ -1,0 +1,9 @@
+# Colab supplies its own CUDA-enabled PyTorch and torchvision.
+# Avoid unconditionally reinstalling torch/torchvision to prevent CUDA mismatch.
+numpy
+pandas
+matplotlib
+Pillow
+pyarrow
+huggingface_hub
+nbformat
