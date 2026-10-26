@@ -1,4 +1,4 @@
-# Model checkpoints (upload separately)
+# Model checkpoints 
 
 The supplied reproduction notebooks and result archives contained **no** `.pt` weights. The author's/reproducer's separately trained checkpoint files are stored in Google Drive and can be published to Hugging Face after verifying distribution rights.
 
