@@ -4,7 +4,7 @@ Unofficial PyTorch reproduction of **"Predictive and Adaptive Deep Coding for Wi
 
 This repository contains training and evaluation notebooks for **DeepJSCC-V** and **OraNet**, covering PSNR prediction and adaptive compression-ratio (CR) selection under AWGN and fading channels.
 
-[**Paper**](https://doi.org/10.1109/TWC.2023.3234408) · [**Original implementation**](https://github.com/wyzhang-ustb/Predictive-and-Adaptive-Deep-Coding-for-Wireless-Image-Transmission-in-Semantic-Communication) · [**Pretrained weights**](https://huggingface.co/sclee0724/PADC-DeepJSCCV-OraNet-Reproduction) · [**한국어 README**](README_KO.md)
+[**Paper**](https://doi.org/10.1109/TWC.2023.3234408) · [**Original implementation**](https://github.com/wyzhang-ustb/Predictive-and-Adaptive-Deep-Coding-for-Wireless-Image-Transmission-in-Semantic-Communication) · [**Pretrained weights**](https://huggingface.co/sclee0724/PADC-DeepJSCCV-OraNet-Reproduction).
 
 ## Structure of this repository
 
