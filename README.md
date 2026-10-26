@@ -71,7 +71,7 @@ See [all figure files and their reproduction status](docs/FIGURE_STATUS.md). **F
 4. For ImageNet→Kodak24, configure `RUN_IMAGENET_FINETUNE=True`, `IMAGENET_DIR`, and `RUN_KODAK_EVALUATION=True`. Training results and data caches are written to your **personal Drive** run folder; original datasets are read-only inputs.
 5. Review `results/`, then optionally run [`03_CIFAR_Reaudit.ipynb`](notebooks/03_CIFAR_Reaudit.ipynb) on the saved CIFAR CSVs.
 
-More details: [REPRODUCTION.md](docs/REPRODUCTION.md) · [MODIFICATIONS.md](docs/MODIFICATIONS.md) · [LIMITATIONS.md](docs/LIMITATIONS.md) · [GitHub publishing guide (KO)](GITHUB_UPLOAD_GUIDE_KO.md).
+More details: [REPRODUCTION.md](docs/REPRODUCTION.md) · [MODIFICATIONS.md](docs/MODIFICATIONS.md) · [LIMITATIONS.md](docs/LIMITATIONS.md).
 
 ## Which paper figures are reproduced?
 
