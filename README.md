@@ -1,4 +1,4 @@
-# PADC: DeepJSCC-V & OraNet — Colab Reproduction
+# PADC: DeepJSCC-V & OraNet
 
 **Unofficial, research-oriented reproduction** of:
 
